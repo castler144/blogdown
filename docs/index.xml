@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>Castler144 blogdown test</title>
     <link>https://castler144.github.io/blogdown/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on Castler144 blogdown test</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko-KR</language>
     <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
     
 	<atom:link href="https://castler144.github.io/blogdown/index.xml" rel="self" type="application/rss+xml" />
