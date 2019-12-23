@@ -1,11 +1,14 @@
 baseurl = "https://castler144.github.io/blogdown/"
-languageCode = "en-us"
-title = "A Hugo website"
+languageCode = "ko-KR"
+title = "Castler144 blogdown test"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir = "docs"
+enableimoji = true
+canoifyurls = true
+hasCJKLanguage = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -15,13 +18,13 @@ publishDir = "docs"
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/castler144/blogdown"
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/rstudio"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Castler144's blogdown test"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
